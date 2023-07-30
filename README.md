@@ -13,7 +13,7 @@ The functionalities include;
 
 ## Setup/Installation Requirements
 * Clone the project and open it using IntelliJ IDEA
-* Run tests using
+* Run tests using gradle
 ```agsl
 gradle test
 ```
